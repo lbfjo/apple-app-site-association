@@ -1,8 +1,13 @@
 {
-  "webcredentials": {
-    "apps": [
-      "KAW43335BG.com.companyName.App1",
-      "KAW43335BG.com.companyName.App2"
-    ]
-  }
+"applinks": {
+"apps": [],
+"details": [
+{
+"appID": "4W9NZL6J87.pt.millenniumbcp.tpfbizapp",
+"paths": [
+"*"
+]
+}
+]
+}
 }
